@@ -15,7 +15,10 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 import jieba
 import time
-                
+
+name=martin
+print(name)
+
 corpus=[]  
 alltime=[]    
 annid=[]         
